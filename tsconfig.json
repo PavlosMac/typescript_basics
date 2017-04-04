@@ -1,0 +1,13 @@
+{
+  "compilerOptions":{
+    "module": "amd",
+    "target": "ES5",
+    "experimentalDecorators": true,
+		"emitDecoratorMetadata" : true,
+    "sourceMap": true
+  },
+  "files": [
+    "028_higher_order_functions.ts"
+
+  ]
+}
